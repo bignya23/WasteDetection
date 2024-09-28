@@ -1,0 +1,7 @@
+train: images/train
+val: images/val
+
+
+nc : 7
+names:
+    ['E-Waste' , 'glass' , 'metal' , 'Organic-Waste' , 'paper/CardBoard' , 'plastic' , 'Textiles']
