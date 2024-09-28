@@ -38,6 +38,9 @@ The dataset used for training is from Kaggle: [Garbage Classification Dataset](h
 ```bash
 git clone https://github.com/yourusername/garbage-detection.git
 cd garbage-detection
-### 2. For live detection using webcam
+
+### 2. For live detection using a webcam
+```bash
+
 cd src
 python detect.py
