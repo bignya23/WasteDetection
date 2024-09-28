@@ -1,4 +1,4 @@
-# Garbage Classification using YOLOv5
+# Waste Classification using YOLOv5
 
 This project focuses on object detection and classification of various types of waste using the YOLOv5 model. The model has been trained on a custom dataset to detect and classify different types of garbage, enabling efficient waste management and recycling.
 
