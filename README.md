@@ -36,7 +36,7 @@ The dataset used for training is from Kaggle: [Garbage Classification Dataset](h
 
 
 ```bash
-git clone https://github.com/yourusername/garbage-detection.git
+https://github.com/bignya23/WasteDetection.git
 cd garbage-detection
 
 cd src
